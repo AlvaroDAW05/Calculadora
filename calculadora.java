@@ -10,7 +10,8 @@ package com.mycompany.entornos;
  * @author Alumnado
  */
 public class calculadora {
-
+    // AQUI EMPIZA LA CLASE calculadora
+    
     private int num1;
     private int num2;
     
